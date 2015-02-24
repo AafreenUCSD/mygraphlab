@@ -1,0 +1,1023 @@
+Notice: Output directory `doc/doxygen' does not exist. I have created it for you.
+/home/dato0/graphlab/src/graphlab/options/command_line_options.cpp:63: Warning: include file graphlab/options/engine_help.txt not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/src/graphlab/options/command_line_options.cpp:67: Warning: include file graphlab/options/graph_help.txt not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/src/graphlab/parallel/deferred_rwlock.hpp:35: warning: Found ';' while parsing initializer list! (doxygen could be confused by a macro call without semicolon)
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:237: Warning: include file boost/preprocessor.hpp not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:238: Warning: include file graphlab/rpc/function_arg_types_def.hpp not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:259: Warning: include file graphlab/rpc/function_arg_types_undef.hpp not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:261: Warning: include file graphlab/rpc/mem_function_arg_types_def.hpp not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:280: Warning: include file graphlab/rpc/mem_function_arg_types_undef.hpp not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/src/graphlab/rpc/dc_dist_object.hpp:1578: Warning: include file graphlab/macros_undef.hpp not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/src/graphlab/rpc/dc_dist_object.hpp:1579: Warning: include file graphlab/rpc/mem_function_arg_types_undef.hpp not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/src/graphlab/rpc/function_ret_type.hpp:82: Warning: include file graphlab/rpc/function_arg_types_undef.hpp not found, perhaps you forgot to add its directory to INCLUDE_PATH?
+/home/dato0/graphlab/toolkits/collaborative_filtering/collaborative_filtering.dox:668: warning: Invalid or missing section label
+/home/dato0/graphlab/src/graphlab/graph/dynamic_local_graph.hpp:640: warning: no uniquely matching class member found for 
+  boost::iterator_core_access
+
+/home/dato0/graphlab/src/graphlab/rpc/dc.cpp:409: warning: documented function `void graphlab::distributed_control::stop_handler_threads' was not declared or defined.
+/home/dato0/graphlab/src/graphlab/rpc/dc.cpp:414: warning: documented function `void graphlab::distributed_control::stop_handler_threads_no_wait' was not declared or defined.
+/home/dato0/graphlab/src/graphlab/rpc/dc.cpp:422: warning: documented function `void graphlab::distributed_control::start_handler_threads' was not declared or defined.
+/home/dato0/graphlab/src/graphlab/rpc/dc.cpp:430: warning: documented function `void graphlab::distributed_control::handle_incoming_calls' was not declared or defined.
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:156: warning: unable to resolve reference to `graphlab::vertex_id_type' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/omni_engine.hpp:119: warning: unable to resolve reference to `graphlab::vertex_id_type' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1823: warning: unable to resolve reference to `save(const std::string& prefix, writer writer, bool gzip, bool save_vertex, bool save_edge, size_t files_per_machine)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1900: warning: unable to resolve reference to `save(const std::string& prefix, writer writer, bool gzip, bool save_vertex, bool save_edge, size_t files_per_machine)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2158: warning: unable to resolve reference to `load(const std::string& path, line_parser_type line_parser)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2216: warning: unable to resolve reference to `load(const std::string& path, line_parser_type line_parser)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/graph_ops.hpp:95: warning: Member num_neighbors(const distributed_graph< VertexType, EdgeType > &graph, vertex_id_type &vid) (function) of namespace graphlab::graph_ops is not documented.
+/home/dato0/graphlab/src/graphlab/graph/graph_ops.hpp:121: warning: Member neighbors(const distributed_graph< VertexType, EdgeType > &graph, const vertex_id_type vid, std::vector< vertex_id_type > &neighbors) (function) of namespace graphlab::graph_ops is not documented.
+/home/dato0/graphlab/src/graphlab/graph/graph_ops.hpp:152: warning: Member save_metis_structure(const std::string &filename, const distributed_graph< VertexType, EdgeType > &graph) (function) of namespace graphlab::graph_ops is not documented.
+/home/dato0/graphlab/src/graphlab/graph/graph_ops.hpp:184: warning: Member save_edge_list_structure(const std::string &filename, const distributed_graph< VertexType, EdgeType > &graph) (function) of namespace graphlab::graph_ops is not documented.
+/home/dato0/graphlab/src/graphlab/graph/graph_ops.hpp:203: warning: Member save_zoltan_hypergraph_structure(const std::string &filename, const distributed_graph< VertexType, EdgeType > &graph) (function) of namespace graphlab::graph_ops is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Context.cpp:45: warning: Member Java_org_graphlab_Context_schedule(JNIEnv *env, jobject obj, jlong context_ptr, jobject updater, jint vertex_id) (function) of file org_graphlab_Context.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:93: warning: Member Java_org_graphlab_Core_createCore__(JNIEnv *env, jobject obj) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:99: warning: Member Java_org_graphlab_Core_createCore__Ljava_lang_String_2(JNIEnv *env, jobject obj, jstring command_line_args) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:128: warning: Member Java_org_graphlab_Core_destroyCore(JNIEnv *env, jobject obj, jlong ptr) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:147: warning: Member Java_org_graphlab_Core_resizeGraph(JNIEnv *env, jobject obj, jlong ptr, jint count) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:165: warning: Member Java_org_graphlab_Core_addVertex(JNIEnv *env, jobject obj, jlong ptr, jobject app_vertex, jint vertex_id) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:186: warning: Member Java_org_graphlab_Core_addEdge(JNIEnv *env, jobject obj, jlong ptr, jint source, jint target, jobject app_edge) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:205: warning: Member Java_org_graphlab_Core_start(JNIEnv *env, jobject obj, jlong ptr) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:225: warning: Member Java_org_graphlab_Core_lastUpdateCount(JNIEnv *env, jobject obj, jlong ptr) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:242: warning: Member Java_org_graphlab_Core_addGlobalConst(JNIEnv *env, jobject obj, jlong ptr, jstring key, jobject to_store) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:268: warning: Member Java_org_graphlab_Core_addGlobal(JNIEnv *env, jobject obj, jlong ptr, jstring key, jobject to_store) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:295: warning: Member Java_org_graphlab_Core_setGlobal(JNIEnv *env, jobject obj, jlong ptr, jstring key, jobject to_store) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:323: warning: Member Java_org_graphlab_Core_getGlobal(JNIEnv *env, jobject obj, jlong ptr, jstring key) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:349: warning: Member Java_org_graphlab_Core_setNCpus(JNIEnv *env, jobject obj, jlong ptr, jlong ncpus) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:366: warning: Member Java_org_graphlab_Core_setSchedulerType(JNIEnv *env, jobject obj, jlong ptr, jstring scheduler_str) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:387: warning: Member Java_org_graphlab_Core_setScopeType(JNIEnv *env, jobject obj, jlong ptr, jstring scope_str) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:409: warning: Member Java_org_graphlab_Core_schedule(JNIEnv *env, jobject obj, jlong core_ptr, jobject updater, jint vertex_id) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:430: warning: Member Java_org_graphlab_Core_scheduleAll(JNIEnv *env, jobject obj, jlong core_ptr, jobject updater) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:452: warning: Member Java_org_graphlab_Core_addAggregator(JNIEnv *env, jobject obj, jlong core_ptr, jstring key, jobject aggregator, jlong frequency) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.cpp:477: warning: Member Java_org_graphlab_Core_aggregateNow(JNIEnv *env, jobject obj, jlong core_ptr, jstring key) (function) of file org_graphlab_Core.cpp is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:125: warning: Member logbuf(lvl, buf, len) (define) of file logger.hpp is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:128: warning: Member logstream(lvl) (define) of file logger.hpp is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:137: warning: Member logger_once(lvl, fmt,...) (define) of file logger.hpp is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:145: warning: Member logstream_once(lvl) (define) of file logger.hpp is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:155: warning: Member logger_ontick(sec, lvl, fmt,...) (define) of file logger.hpp is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:167: warning: Member logstream_ontick(sec, lvl) (define) of file logger.hpp is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:392: warning: Member textcolor(FILE *handle, int attr, int fg) (function) of file logger.hpp is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:393: warning: Member reset_color(FILE *handle) (function) of file logger.hpp is not documented.
+/home/dato0/graphlab/src/graphlab/docs/faq.dox:3: warning: explicit link request to 'I' could not be resolved
+/home/dato0/graphlab/src/graphlab/docs/faq.dox:18: warning: explicit link request to 'I' could not be resolved
+/home/dato0/graphlab/src/graphlab/docs/using_warp.dox:85: warning: unable to resolve reference to `graphlab::warp_engine' for \ref command
+/home/dato0/graphlab/src/graphlab/docs/using_warp.dox:206: warning: unable to resolve reference to `asynchronous_engine' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/graph_formats.dox:47: warning: unable to resolve reference to `TSV' for \ref command
+/home/dato0/graphlab/src/graphlab/rpc/rpc.dox:52: warning: unable to resolve reference to `Spawning' for \ref command
+/home/dato0/graphlab/src/graphlab/rpc/rpc.dox:54: warning: unable to resolve reference to `Basic_RPC' for \ref command
+/home/dato0/graphlab/src/graphlab/rpc/rpc.dox:258: warning: unable to resolve reference to `Serialization' for \ref command
+/home/dato0/graphlab/src/graphlab/rpc/rpc.dox:460: warning: unable to resolve reference to `sec_rpc_dc' for \ref command
+/home/dato0/graphlab/toolkits/collaborative_filtering/collaborative_filtering.dox:27: warning: unable to resolve reference to `CCD' for \ref command
+/home/dato0/graphlab/toolkits/collaborative_filtering/collaborative_filtering.dox:676: warning: Found unknown command `\bigbro6'
+/home/dato0/graphlab/toolkits/computer_vision/computer_vision.dox:10: warning: image file panorama_small.png is not found in IMAGE_PATH: assuming external image.
+/home/dato0/graphlab/toolkits/graph_analytics/graph_analytics.dox:70: warning: unable to resolve reference to `djiksra_imp' for \ref command
+/home/dato0/graphlab/toolkits/graph_analytics/graph_analytics.dox:110: warning: unable to resolve reference to `djiksra_imp' for \ref command
+/home/dato0/graphlab/toolkits/graph_analytics/graph_analytics.dox:150: warning: unable to resolve reference to `djiksra_imp' for \ref command
+/home/dato0/graphlab/toolkits/graph_analytics/graph_analytics.dox:780: warning: unable to resolve reference to `graph_coloring' for \ref command
+/home/dato0/graphlab/toolkits/graphical_models/factors/factor_graphs.dox:79: warning: image file denoised.jpeg is not found in IMAGE_PATH: assuming external image.
+/home/dato0/graphlab/toolkits/toolkits.dox:13: warning: unable to resolve reference to `graph_algorithms' for \ref command
+/home/dato0/graphlab/toolkits/topic_modeling/topic_modeling.dox:87: warning: unable to resolve reference to `cgs_lda.cpp' for \ref command
+/home/dato0/graphlab/src/graphlab/serialization/serialize_to_from_string.hpp:55: warning: unable to resolve reference to `serializable' for \ref command
+/home/dato0/graphlab/src/graphlab/serialization/serialize_to_from_string.hpp:30: warning: unable to resolve reference to `serializable' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_graph_broadcast.hpp:304: warning: unable to resolve reference to `graphlab::warp_engine' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_graph_broadcast.hpp:297: warning: argument 'transform_fn' of command @param is not found in the argument list of graphlab::warp::broadcast_neighborhood(ContextType &context, VertexType current, edge_dir_type edge_direction, void(*broadcast_fn)(ContextType &context, typename VertexType::graph_type::edge_type edge, VertexType other))
+/home/dato0/graphlab/src/graphlab/engine/warp_graph_broadcast.hpp:297: warning: The following parameters of graphlab::warp::broadcast_neighborhood(ContextType &context, VertexType current, edge_dir_type edge_direction, void(*broadcast_fn)(ContextType &context, typename VertexType::graph_type::edge_type edge, VertexType other)) are not documented:
+  parameter 'context'
+  parameter 'broadcast_fn'
+/home/dato0/graphlab/src/graphlab/engine/warp_graph_broadcast.hpp:382: warning: unable to resolve reference to `graphlab::warp_engine' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_graph_broadcast.hpp:383: warning: unable to resolve reference to `graphlab::warp_engine::context' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_graph_broadcast.hpp:375: warning: argument 'transform_fn' of command @param is not found in the argument list of graphlab::warp::broadcast_neighborhood(ContextType &context, VertexType current, edge_dir_type edge_direction, void(*broadcast_fn)(ContextType &context, typename VertexType::graph_type::edge_type edge, VertexType other, const ExtraArg extra), const ExtraArg extra)
+/home/dato0/graphlab/src/graphlab/engine/warp_graph_broadcast.hpp:375: warning: The following parameters of graphlab::warp::broadcast_neighborhood(ContextType &context, VertexType current, edge_dir_type edge_direction, void(*broadcast_fn)(ContextType &context, typename VertexType::graph_type::edge_type edge, VertexType other, const ExtraArg extra), const ExtraArg extra) are not documented:
+  parameter 'context'
+  parameter 'broadcast_fn'
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:703: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:223: warning: Member start_stream(int lineloglevel, const char *file, const char *function, int line, bool do_start=true) (function) of class file_logger is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:226: warning: Member operator<<(T a) (function) of class file_logger is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:239: warning: Member operator<<(const char *a) (function) of class file_logger is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:257: warning: Member operator<<(std::ostream &(*f)(std::ostream &)) (function) of class file_logger is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:304: warning: Member _logbuf(int loglevel, const char *file, const char *function, int line, const char *buf, int len) (function) of class file_logger is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:306: warning: Member _lograw(int loglevel, const char *buf, int len) (function) of class file_logger is not documented.
+/home/dato0/graphlab/src/graphlab/logger/logger.hpp:308: warning: Member stream_flush() (function) of class file_logger is not documented.
+/home/dato0/graphlab/src/graphlab/graph/graph_basic_types.hpp:38: warning: Member vertex_id_type (typedef) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:735: warning: Member barrier (typedef) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/hashstream.hpp:89: warning: Member hashstream (typedef) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:31: warning: Member resizing_array_sink (typedef) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc_types.hpp:37: warning: Member dc_comm_type (enumeration) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/graph/dynamic_local_graph.hpp:543: warning: Member operator<<(std::ostream &out, const dynamic_local_graph< VertexData, EdgeData > &local_graph) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/graph/local_graph.hpp:737: warning: Member operator<<(std::ostream &out, local_graph< VertexData, EdgeData > &g) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/options/options_map.cpp:62: warning: Member operator<<(std::ostream &out, const graphlab::options_map &opts) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:740: warning: Member prefetch_range(void *addr, size_t len) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:746: warning: Member prefetch_range_write(void *addr, size_t len) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc_init_from_zookeeper.cpp:44: warning: Member zk_callback(zookeeper::server_list *slist, std::string name_space, std::vector< std::string > servers, std::vector< std::string > &result, size_t num_to_watch_for, mutex &result_lock, conditional &result_cond) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.cpp:465: warning: Member get_event_log() (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/request_reply_handler.cpp:31: warning: Member request_reply_handler(distributed_control &dc, procid_t src, size_t ptr, dc_impl::blob ret) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/ui/metrics_server.cpp:145: warning: Member four_oh_four(std::map< std::string, std::string > &varmap) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/ui/metrics_server.cpp:155: warning: Member echo(std::map< std::string, std::string > &varmap) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/ui/metrics_server.cpp:169: warning: Member index_page(std::map< std::string, std::string > &varmap) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/vector_zip.hpp:35: warning: Member vector_zip(std::vector< v1 > &vec1, std::vector< v2 > &vec2) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/integer_mix.hpp:30: warning: Member integer_mix(uint32_t a) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/net_util.cpp:37: warning: Member str_to_ip(const char *c, uint32_t &out) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/net_util.cpp:42: warning: Member ip_to_str(uint32_t ip, std::string &out) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_map.hpp:188: warning: Member operator<<(std::ostream &out, const graphlab::small_map< MAX_DIM, KeyT, ValueT > &map) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:393: warning: Member operator<<(std::ostream &out, const graphlab::small_set< MAX_DIM, T > &set) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:79: warning: Member set_union(const std::set< T > &a, const T &b) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:86: warning: Member set_intersect(const std::set< T > &a, const std::set< T > &b) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:95: warning: Member set_difference(const std::set< T > &a, const std::set< T > &b) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:105: warning: Member set_difference(const std::set< T > &a, const T &b) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:122: warning: Member set_disjoint(const std::set< T > &a, const std::set< T > &b) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:127: warning: Member set_equal(const std::set< T > &a, const std::set< T > &b) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:133: warning: Member includes(const std::set< T > &a, const std::set< T > &b) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:146: warning: Member is_superset(const std::set< T > &a, const std::set< T > &b) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:341: warning: Member values(const std::map< Key, T > &m, const std::set< Key > &keys) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:352: warning: Member values(const std::map< Key, T > &m, const std::vector< Key > &keys) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/timer.cpp:36: warning: Member alarm_wakeup(int i) (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/timer.cpp:114: warning: Member estimate_ticks_per_second() (function) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_control.cpp:194: warning: Member flush_lock (variable) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc_packet_mask.hpp:35: warning: Member STANDARD_CALL (variable) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc_packet_mask.hpp:44: warning: Member CONTROL_PACKET (variable) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc_packet_mask.hpp:53: warning: Member FLUSH_PACKET (variable) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:47: warning: Member MAX_LOG_SIZE (variable) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:48: warning: Member MAX_LOG_THREADS (variable) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:49: warning: Member TICK_FREQUENCY (variable) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:50: warning: Member RECORD_FREQUENCY (variable) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/util/timer.cpp:62: warning: Member hmstimer (variable) of namespace graphlab is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/ivertex_program.hpp:91: warning: Found unknown command `\intersect'
+/home/dato0/graphlab/src/graphlab/vertex_program/ivertex_program.hpp:95: warning: Found unknown command `\intersect'
+/home/dato0/graphlab/src/graphlab/util/stl_util.hpp:137: warning: Found unknown command `\subseteq'
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:156: warning: unable to resolve reference to `graphlab::vertex_id_type' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/async_consistent_engine.hpp:743: warning: Member signal(vertex_id_type gvid, const message_type &message=message_type()) (function) of class graphlab::async_consistent_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/async_consistent_engine.hpp:751: warning: Member signal_all(const message_type &message=message_type(), const std::string &order="shuffle") (function) of class graphlab::async_consistent_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/async_consistent_engine.hpp:758: warning: Member signal_vset(const vertex_set &vset, const message_type &message=message_type(), const std::string &order="shuffle") (function) of class graphlab::async_consistent_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/async_consistent_engine.hpp:1289: warning: Member get_aggregator() (function) of class graphlab::async_consistent_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/async_consistent_engine.hpp:123: warning: unable to resolve reference to `graphlab::async_consistent_engine::signal' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/async_consistent_engine.hpp:124: warning: unable to resolve reference to `graphlab::async_consistent_engine::signal_all' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:596: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:387: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:920: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:822: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:230: warning: argument 'vid' of command @param is not found in the argument list of graphlab::iengine< VertexProgram >::signal(vertex_id_type vertex, const message_type &message=message_type())
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:230: warning: The following parameters of graphlab::iengine::signal(vertex_id_type vertex, const message_type &message=message_type()) are not documented:
+  parameter 'vertex'
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:278: warning: The following parameters of graphlab::iengine::signal_all(const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:316: warning: The following parameters of graphlab::iengine::signal_vset(const vertex_set &vset, const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/engine/execution_status.hpp:38: warning: Member status_enum (enumeration) of class graphlab::execution_status is not documented.
+/home/dato0/graphlab/src/graphlab/engine/execution_status.hpp:53: warning: Member to_string(status_enum es) (function) of class graphlab::execution_status is not documented.
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:156: warning: unable to resolve reference to `graphlab::vertex_id_type' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:596: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:387: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:920: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:822: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:230: warning: argument 'vid' of command @param is not found in the argument list of graphlab::iengine< VertexProgram >::signal(vertex_id_type vertex, const message_type &message=message_type())
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:230: warning: The following parameters of graphlab::iengine::signal(vertex_id_type vertex, const message_type &message=message_type()) are not documented:
+  parameter 'vertex'
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:278: warning: The following parameters of graphlab::iengine::signal_all(const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:316: warning: The following parameters of graphlab::iengine::signal_vset(const vertex_set &vset, const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/engine/message_array.hpp:41: warning: Member value_type (typedef) of class graphlab::message_array is not documented.
+/home/dato0/graphlab/src/graphlab/engine/message_array.hpp:166: warning: Member empty() const  (function) of class graphlab::message_array is not documented.
+/home/dato0/graphlab/src/graphlab/engine/message_array.hpp:178: warning: Member num_joins() const  (function) of class graphlab::message_array is not documented.
+/home/dato0/graphlab/src/graphlab/engine/message_array.hpp:187: warning: Member num_adds() const  (function) of class graphlab::message_array is not documented.
+/home/dato0/graphlab/src/graphlab/engine/message_array.hpp:34: warning: Found unknown command `\TODO'
+/home/dato0/graphlab/src/graphlab/engine/omni_engine.hpp:119: warning: unable to resolve reference to `graphlab::vertex_id_type' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/omni_engine.hpp:231: warning: Member get_aggregator() (function) of class graphlab::omni_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:596: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:387: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:920: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:822: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/omni_engine.hpp:217: warning: argument 'vid' of command @param is not found in the argument list of graphlab::omni_engine< VertexProgram >::signal(vertex_id_type vertex, const message_type &message=message_type()) inherited from member signal at line 230 in file /home/dato0/graphlab/src/graphlab/engine/iengine.hpp
+/home/dato0/graphlab/src/graphlab/engine/omni_engine.hpp:217: warning: The following parameters of graphlab::omni_engine::signal(vertex_id_type vertex, const message_type &message=message_type()) are not documented:
+  parameter 'vertex'
+/home/dato0/graphlab/src/graphlab/engine/omni_engine.hpp:221: warning: The following parameters of graphlab::omni_engine::signal_all(const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/engine/omni_engine.hpp:226: warning: The following parameters of graphlab::omni_engine::signal_vset(const vertex_set &vset, const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:156: warning: unable to resolve reference to `graphlab::vertex_id_type' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/synchronous_engine.hpp:649: warning: Member signal(vertex_id_type vid, const message_type &message=message_type()) (function) of class graphlab::synchronous_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/synchronous_engine.hpp:653: warning: Member signal_all(const message_type &message=message_type(), const std::string &order="shuffle") (function) of class graphlab::synchronous_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/synchronous_engine.hpp:657: warning: Member signal_vset(const vertex_set &vset, const message_type &message=message_type(), const std::string &order="shuffle") (function) of class graphlab::synchronous_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/synchronous_engine.hpp:111: warning: unable to resolve reference to `graphlab::synchronous_engine::signal' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/synchronous_engine.hpp:112: warning: unable to resolve reference to `graphlab::synchronous_engine::signal_all' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/synchronous_engine.hpp:1015: warning: unable to resolve reference to `gather_caching' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:596: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:387: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:920: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:822: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:230: warning: argument 'vid' of command @param is not found in the argument list of graphlab::iengine< VertexProgram >::signal(vertex_id_type vertex, const message_type &message=message_type())
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:230: warning: The following parameters of graphlab::iengine::signal(vertex_id_type vertex, const message_type &message=message_type()) are not documented:
+  parameter 'vertex'
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:278: warning: The following parameters of graphlab::iengine::signal_all(const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/engine/iengine.hpp:316: warning: The following parameters of graphlab::iengine::signal_vset(const vertex_set &vset, const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:379: warning: Member mirror_type (typedef) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:387: warning: Member graph_type (typedef) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:389: warning: Member lock_manager_type (typedef) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:405: warning: Member vertex_id_type (typedef) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:406: warning: Member lvid_type (typedef) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:407: warning: Member edge_id_type (typedef) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:410: warning: Member edge_list_type (typedef) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:632: warning: Member get_lock_manager() (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:684: warning: Member is_dynamic() const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1823: warning: unable to resolve reference to `save(const std::string& prefix, writer writer, bool gzip, bool save_vertex, bool save_edge, size_t files_per_machine)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1900: warning: unable to resolve reference to `save(const std::string& prefix, writer writer, bool gzip, bool save_vertex, bool save_edge, size_t files_per_machine)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2158: warning: unable to resolve reference to `load(const std::string& path, line_parser_type line_parser)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2216: warning: unable to resolve reference to `load(const std::string& path, line_parser_type line_parser)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2463: warning: Member neighbors(const vertex_set &cur, edge_dir_type edir) (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2543: warning: Member sync_vertex_set_master_to_mirrors(vertex_set &vset) (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2653: warning: Member l_vertex(lvid_type vid) (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2659: warning: Member num_replicas() const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2663: warning: Member num_local_vertices() const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2667: warning: Member num_local_edges() const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2671: warning: Member num_local_own_vertices() const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2675: warning: Member local_vid(const vertex_id_type vid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2684: warning: Member global_vid(const lvid_type lvid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2694: warning: Member contains_vertex(const vertex_id_type vid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2704: warning: Member l_in_edges(const lvid_type lvid) (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2715: warning: Member l_num_in_edges(const lvid_type lvid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2726: warning: Member l_out_edges(const lvid_type lvid) (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2737: warning: Member l_num_out_edges(const lvid_type lvid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2741: warning: Member procid() const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2746: warning: Member numprocs() const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2750: warning: Member dc() (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2759: warning: Member get_vertex_record(vertex_id_type vid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2770: warning: Member l_get_vertex_record(lvid_type lvid) (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2778: warning: Member l_get_vertex_record(lvid_type lvid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2787: warning: Member is_master(vertex_id_type vid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2793: warning: Member master(vertex_id_type vid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2802: warning: Member l_is_master(lvid_type lvid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2810: warning: Member l_master(lvid_type lvid) const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2819: warning: Member get_local_graph() (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2826: warning: Member get_local_graph() const  (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:2837: warning: Member synchronize(const vertex_set &vset=complete_set()) (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:3125: warning: Member get_rpc_obj_id() (function) of class graphlab::distributed_graph is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:143: warning: unable to resolve reference to `load(const std::string& path, line_parser_type line_parser)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:236: warning: unable to resolve reference to `save(const std::string& prefix, writer writer, bool gzip, bool save_vertex, bool save_edge, size_t files_per_machine)' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:274: warning: unable to resolve reference to `vertex_record' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:280: warning: unable to resolve reference to `local_vertex_type' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:280: warning: unable to resolve reference to `local_edge_type' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:287: warning: unable to resolve reference to `local_vertex_type' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:290: warning: unable to resolve reference to `local_vertex_type' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:290: warning: unable to resolve reference to `local_edge_type' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1315: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1284: warning: argument 'fold' of command @param is not found in the argument list of graphlab::distributed_graph< VertexData, EdgeData >::fold_edges(FoldFunctionType foldfunction, const vertex_set &vset=complete_set(), edge_dir_type edir=IN_EDGES)
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1284: warning: The following parameters of graphlab::distributed_graph::fold_edges(FoldFunctionType foldfunction, const vertex_set &vset=complete_set(), edge_dir_type edir=IN_EDGES) are not documented:
+  parameter 'foldfunction'
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1196: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1047: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:926: warning: Unsupported xml/html tag <float> found
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1983: warning: argument 'save_edges' of command @param is not found in the argument list of graphlab::distributed_graph< VertexData, EdgeData >::save(const std::string &prefix, Writer writer, bool gzip=true, bool save_vertex=true, bool save_edge=true, size_t files_per_machine=4)
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1983: warning: The following parameters of graphlab::distributed_graph::save(const std::string &prefix, Writer writer, bool gzip=true, bool save_vertex=true, bool save_edge=true, size_t files_per_machine=4) are not documented:
+  parameter 'save_edge'
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1489: warning: argument 'mapfunction' of command @param is not found in the argument list of graphlab::distributed_graph< VertexData, EdgeData >::transform_edges(TransformType transform_functor, const vertex_set &vset=complete_set(), edge_dir_type edir=IN_EDGES)
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1530: warning: unable to resolve reference to `icontext_type' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1489: warning: The following parameters of graphlab::distributed_graph::transform_edges(TransformType transform_functor, const vertex_set &vset=complete_set(), edge_dir_type edir=IN_EDGES) are not documented:
+  parameter 'transform_functor'
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1413: warning: argument 'mapfunction' of command @param is not found in the argument list of graphlab::distributed_graph< VertexData, EdgeData >::transform_vertices(TransformType transform_functor, const vertex_set vset=complete_set())
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1454: warning: unable to resolve reference to `icontext_type' for \ref command
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:1413: warning: The following parameters of graphlab::distributed_graph::transform_vertices(TransformType transform_functor, const vertex_set vset=complete_set()) are not documented:
+  parameter 'transform_functor'
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:427: warning: Member graph_type (typedef) of class graphlab::distributed_graph::vertex_type is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:428: warning: Member graph_ref (variable) of class graphlab::distributed_graph::vertex_type is not documented.
+/home/dato0/graphlab/src/graphlab/graph/distributed_graph.hpp:429: warning: Member lvid (variable) of class graphlab::distributed_graph::vertex_type is not documented.
+/home/dato0/graphlab/src/graphlab/graph/graph_vertex_join.hpp:211: warning: Member graph_vertex_join(distributed_control &dc, left_graph_type &left, right_graph_type &right) (function) of class graphlab::graph_vertex_join is not documented.
+/home/dato0/graphlab/src/graphlab/graph/graph_vertex_join.hpp:190: warning: Member rmi (variable) of class graphlab::graph_vertex_join is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:49: warning: Member graph_type (typedef) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:55: warning: Member vertex_record (typedef) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:56: warning: Member mirror_type (typedef) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:58: warning: Member base_type (typedef) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:60: warning: Member bin_counts_type (typedef) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:80: warning: Member distributed_constrained_oblivious_ingress(distributed_control &dc, graph_type &graph, bool usehash=false, bool userecent=false) (function) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:101: warning: Member finalize() (function) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:157: warning: Member set_duplicate_vertex_strategy(boost::function< void(vertex_data_type &, const vertex_data_type &)> combine_strategy) (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:514: warning: Member exchange_global_info() (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:65: warning: Member dht (variable) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:72: warning: Member userecent (variable) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:74: warning: Member constraint (variable) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_oblivious_ingress.hpp:75: warning: Member hashvid (variable) of class graphlab::distributed_constrained_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:70: warning: Member vertex_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:83: warning: Member edge_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_random_ingress.hpp:48: warning: Member graph_type (typedef) of class graphlab::distributed_constrained_random_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_random_ingress.hpp:55: warning: Member base_type (typedef) of class graphlab::distributed_constrained_random_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:51: warning: Member vertex_record (typedef) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:52: warning: Member mirror_type (typedef) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_random_ingress.hpp:63: warning: Member distributed_constrained_random_ingress(distributed_control &dc, graph_type &graph, const std::string &method) (function) of class graphlab::distributed_constrained_random_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:157: warning: Member set_duplicate_vertex_strategy(boost::function< void(vertex_data_type &, const vertex_data_type &)> combine_strategy) (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:514: warning: Member exchange_global_info() (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_random_ingress.hpp:57: warning: Member constraint (variable) of class graphlab::distributed_constrained_random_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_constrained_random_ingress.hpp:58: warning: Member hashvid (variable) of class graphlab::distributed_constrained_random_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:70: warning: Member vertex_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:83: warning: Member edge_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_identity_ingress.hpp:46: warning: Member graph_type (typedef) of class graphlab::distributed_identity_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_identity_ingress.hpp:52: warning: Member base_type (typedef) of class graphlab::distributed_identity_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:51: warning: Member vertex_record (typedef) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:52: warning: Member mirror_type (typedef) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_identity_ingress.hpp:56: warning: Member distributed_identity_ingress(distributed_control &dc, graph_type &graph) (function) of class graphlab::distributed_identity_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:157: warning: Member set_duplicate_vertex_strategy(boost::function< void(vertex_data_type &, const vertex_data_type &)> combine_strategy) (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:514: warning: Member exchange_global_info() (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:70: warning: Member vertex_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:83: warning: Member edge_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:79: warning: Member edge_buffer_record(const vertex_id_type &source=vertex_id_type(-1), const vertex_id_type &target=vertex_id_type(-1), const edge_data_type &edata=edge_data_type()) (function) of class graphlab::distributed_ingress_base::edge_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:80: warning: Member load(iarchive &arc) (function) of class graphlab::distributed_ingress_base::edge_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:81: warning: Member save(oarchive &arc) const  (function) of class graphlab::distributed_ingress_base::edge_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:74: warning: Member source (variable) of class graphlab::distributed_ingress_base::edge_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:74: warning: Member target (variable) of class graphlab::distributed_ingress_base::edge_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:75: warning: Member edata (variable) of class graphlab::distributed_ingress_base::edge_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:66: warning: Member vertex_buffer_record(vertex_id_type vid=-1, vertex_data_type vdata=vertex_data_type()) (function) of class graphlab::distributed_ingress_base::vertex_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:67: warning: Member load(iarchive &arc) (function) of class graphlab::distributed_ingress_base::vertex_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:68: warning: Member save(oarchive &arc) const  (function) of class graphlab::distributed_ingress_base::vertex_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:62: warning: Member vid (variable) of class graphlab::distributed_ingress_base::vertex_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:63: warning: Member vdata (variable) of class graphlab::distributed_ingress_base::vertex_buffer_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:93: warning: Member load(iarchive &arc) (function) of class graphlab::distributed_ingress_base::vertex_negotiator_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:96: warning: Member save(oarchive &arc) const  (function) of class graphlab::distributed_ingress_base::vertex_negotiator_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:100: warning: Member operator+=(const vertex_negotiator_record &v2) (function) of class graphlab::distributed_ingress_base::vertex_negotiator_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:87: warning: Member mirrors (variable) of class graphlab::distributed_ingress_base::vertex_negotiator_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:88: warning: Member num_in_edges (variable) of class graphlab::distributed_ingress_base::vertex_negotiator_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:88: warning: Member num_out_edges (variable) of class graphlab::distributed_ingress_base::vertex_negotiator_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:89: warning: Member has_data (variable) of class graphlab::distributed_ingress_base::vertex_negotiator_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:90: warning: Member vdata (variable) of class graphlab::distributed_ingress_base::vertex_negotiator_record is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:48: warning: Member graph_type (typedef) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:54: warning: Member vertex_record (typedef) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:55: warning: Member mirror_type (typedef) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:57: warning: Member base_type (typedef) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:59: warning: Member bin_counts_type (typedef) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:77: warning: Member distributed_oblivious_ingress(distributed_control &dc, graph_type &graph, bool usehash=false, bool userecent=false) (function) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:102: warning: Member finalize() (function) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:157: warning: Member set_duplicate_vertex_strategy(boost::function< void(vertex_data_type &, const vertex_data_type &)> combine_strategy) (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:514: warning: Member exchange_global_info() (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:64: warning: Member dht (variable) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:68: warning: Member obliv_lock (variable) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_oblivious_ingress.hpp:72: warning: Member userecent (variable) of class graphlab::distributed_oblivious_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:70: warning: Member vertex_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:83: warning: Member edge_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_random_ingress.hpp:46: warning: Member graph_type (typedef) of class graphlab::distributed_random_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_random_ingress.hpp:53: warning: Member base_type (typedef) of class graphlab::distributed_random_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:51: warning: Member vertex_record (typedef) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:52: warning: Member mirror_type (typedef) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_random_ingress.hpp:57: warning: Member distributed_random_ingress(distributed_control &dc, graph_type &graph) (function) of class graphlab::distributed_random_ingress is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:157: warning: Member set_duplicate_vertex_strategy(boost::function< void(vertex_data_type &, const vertex_data_type &)> combine_strategy) (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:514: warning: Member exchange_global_info() (function) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:70: warning: Member vertex_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/ingress/distributed_ingress_base.hpp:83: warning: Member edge_exchange (variable) of class graphlab::distributed_ingress_base is not documented.
+/home/dato0/graphlab/src/graphlab/graph/local_graph.hpp:135: warning: Member edge_type(local_graph &lgraph_ref, lvid_type _source, lvid_type _target, edge_id_type _eid) (function) of class graphlab::local_graph::edge_type is not documented.
+/home/dato0/graphlab/src/graphlab/graph/local_graph.hpp:95: warning: Member vertex_type(local_graph &lgraph_ref, lvid_type vid) (function) of class graphlab::local_graph::vertex_type is not documented.
+/home/dato0/graphlab/src/graphlab/graph/vertex_set.hpp:101: warning: Member get_lvid_bitset(const DGraphType &dgraph) const  (function) of class graphlab::vertex_set is not documented.
+/home/dato0/graphlab/src/graphlab/graph/vertex_set.hpp:114: warning: Member set_lvid_unsync(lvid_type lvid) (function) of class graphlab::vertex_set is not documented.
+/home/dato0/graphlab/src/graphlab/graph/vertex_set.hpp:127: warning: Member set_lvid(lvid_type lvid) (function) of class graphlab::vertex_set is not documented.
+/home/dato0/graphlab/src/graphlab/graph/vertex_set.hpp:138: warning: Member make_explicit(const DGraphType &dgraph) const  (function) of class graphlab::vertex_set is not documented.
+/home/dato0/graphlab/src/graphlab/graph/vertex_set.hpp:158: warning: Member synchronize_master_to_mirrors(DGraphType &dgraph, buffered_exchange< vertex_id_type > &exchange) (function) of class graphlab::vertex_set is not documented.
+/home/dato0/graphlab/src/graphlab/graph/vertex_set.hpp:197: warning: Member synchronize_mirrors_to_master_or(DGraphType &dgraph, buffered_exchange< vertex_id_type > &exchange) (function) of class graphlab::vertex_set is not documented.
+/home/dato0/graphlab/src/graphlab/graph/vertex_set.hpp:256: warning: Member l_contains(lvid_type lvid) const  (function) of class graphlab::vertex_set is not documented.
+/home/dato0/graphlab/src/graphlab/graph/vertex_set.hpp:41: warning: unable to resolve reference to `graphlab::iengine::signal_all(const vertex_set& vset, const message_type& message, const std::string& order)' for \ref command
+/home/dato0/graphlab/src/graphlab/jni/java_any.hpp:82: warning: Member obj() const  (function) of class graphlab::java_any is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Aggregator.hpp:111: warning: Member operator()(icontext_type &context) (function) of class graphlab::proxy_aggregator is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Aggregator.hpp:113: warning: Member operator+=(const proxy_aggregator &other) (function) of class graphlab::proxy_aggregator is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Aggregator.hpp:115: warning: Member finalize(iglobal_context &context) (function) of class graphlab::proxy_aggregator is not documented.
+/home/dato0/graphlab/src/graphlab/jni/java_any.hpp:82: warning: Member obj() const  (function) of class graphlab::java_any is not documented.
+/home/dato0/graphlab/src/graphlab/jni/java_any.hpp:82: warning: Member obj() const  (function) of class graphlab::java_any is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Core.hpp:130: warning: Member dump_backtrace(int sig) (function) of class graphlab::jni_core is not documented.
+/home/dato0/graphlab/src/graphlab/jni/java_any.hpp:82: warning: Member obj() const  (function) of class graphlab::java_any is not documented.
+/home/dato0/graphlab/src/graphlab/jni/java_any.hpp:82: warning: Member obj() const  (function) of class graphlab::java_any is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:169: warning: Member operator()(icontext_type &context) (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:170: warning: Member operator+=(const update_functor_type &other) const  (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:171: warning: Member is_factorizable() const  (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:172: warning: Member gather_edges() const  (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:173: warning: Member scatter_edges() const  (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:174: warning: Member consistency() const  (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:175: warning: Member gather_consistency() const  (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:176: warning: Member scatter_consistency() const  (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:177: warning: Member init_gather(icontext_type &context) (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:178: warning: Member gather(icontext_type &context, const edge_type &edge) (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:179: warning: Member merge(const update_functor_type &other) (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:180: warning: Member apply(icontext_type &context) (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/org_graphlab_Updater.hpp:181: warning: Member scatter(icontext_type &context, const edge_type &edge) (function) of class graphlab::proxy_updater is not documented.
+/home/dato0/graphlab/src/graphlab/jni/java_any.hpp:82: warning: Member obj() const  (function) of class graphlab::java_any is not documented.
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:122: warning: Member set_scheduler_type(const std::string &stype) (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:143: warning: Member get_graph_args() const  (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:147: warning: Member get_graph_args() (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:152: warning: Member get_scheduler_args() const  (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:156: warning: Member get_scheduler_args() (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/command_line_options.hpp:307: warning: argument 'option' of command @param is not found in the argument list of graphlab::command_line_options::add_positional(const std::string &str)
+/home/dato0/graphlab/src/graphlab/options/command_line_options.hpp:307: warning: argument 'ret_cont' of command @param is not found in the argument list of graphlab::command_line_options::add_positional(const std::string &str)
+/home/dato0/graphlab/src/graphlab/options/command_line_options.hpp:307: warning: argument 'default_value' of command @param is not found in the argument list of graphlab::command_line_options::add_positional(const std::string &str)
+/home/dato0/graphlab/src/graphlab/options/command_line_options.hpp:307: warning: argument 'description' of command @param is not found in the argument list of graphlab::command_line_options::add_positional(const std::string &str)
+/home/dato0/graphlab/src/graphlab/options/command_line_options.hpp:307: warning: The following parameters of graphlab::command_line_options::add_positional(const std::string &str) are not documented:
+  parameter 'str'
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:122: warning: Member set_scheduler_type(const std::string &stype) (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:143: warning: Member get_graph_args() const  (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:147: warning: Member get_graph_args() (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:152: warning: Member get_scheduler_args() const  (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/graphlab_options.hpp:156: warning: Member get_scheduler_args() (function) of class graphlab::graphlab_options is not documented.
+/home/dato0/graphlab/src/graphlab/options/options_map.hpp:57: warning: Member options_map(std::string &s) (function) of class graphlab::options_map is not documented.
+/home/dato0/graphlab/src/graphlab/options/options_map.hpp:80: warning: Member set_option(const std::string &opt, const T &val) (function) of class graphlab::options_map is not documented.
+/home/dato0/graphlab/src/graphlab/options/options_map.hpp:195: warning: Member get_option_keys() const  (function) of class graphlab::options_map is not documented.
+/home/dato0/graphlab/src/graphlab/options/options_map.hpp:210: warning: Member options (variable) of class graphlab::options_map is not documented.
+/home/dato0/graphlab/src/graphlab/options/options_map.hpp:187: warning: Member strval (variable) of class graphlab::options_map::option_values is not documented.
+/home/dato0/graphlab/src/graphlab/options/options_map.hpp:188: warning: Member intval (variable) of class graphlab::options_map::option_values is not documented.
+/home/dato0/graphlab/src/graphlab/options/options_map.hpp:189: warning: Member dblval (variable) of class graphlab::options_map::option_values is not documented.
+/home/dato0/graphlab/src/graphlab/options/options_map.hpp:190: warning: Member boolval (variable) of class graphlab::options_map::option_values is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/atomic_add_vector2_empty_specialization.hpp:58: warning: Member value_type (typedef) of class graphlab::atomic_add_vector2< graphlab::empty > is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/atomic_add_vector2_empty_specialization.hpp:110: warning: Member test_and_get(const size_t &idx, value_type &ret_val) (function) of class graphlab::atomic_add_vector2< graphlab::empty > is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/atomic_add_vector2_empty_specialization.hpp:115: warning: Member peek(const size_t &idx, value_type &ret_val) (function) of class graphlab::atomic_add_vector2< graphlab::empty > is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/atomic_add_vector2_empty_specialization.hpp:119: warning: Member empty(const size_t &idx) const  (function) of class graphlab::atomic_add_vector2< graphlab::empty > is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/atomic_add_vector2_empty_specialization.hpp:123: warning: Member size() const  (function) of class graphlab::atomic_add_vector2< graphlab::empty > is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/atomic_add_vector2_empty_specialization.hpp:127: warning: Member num_joins() const  (function) of class graphlab::atomic_add_vector2< graphlab::empty > is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/atomic_add_vector2_empty_specialization.hpp:132: warning: Member clear() (function) of class graphlab::atomic_add_vector2< graphlab::empty > is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/atomic_add_vector2_empty_specialization.hpp:136: warning: Member clear(size_t i) (function) of class graphlab::atomic_add_vector2< graphlab::empty > is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/atomic_add_vector2_empty_specialization.hpp:51: warning: Found unknown command `\TODO'
+/home/dato0/graphlab/src/graphlab/parallel/cache_line_pad.hpp:46: warning: Member cache_line_pad(const T &value=T()) (function) of class graphlab::cache_line_pad is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/cache_line_pad.hpp:47: warning: Member operator=(const T &other) (function) of class graphlab::cache_line_pad is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/cache_line_pad.hpp:48: warning: Member operator T() const  (function) of class graphlab::cache_line_pad is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/cache_line_pad.hpp:44: warning: Member value (variable) of class graphlab::cache_line_pad is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/cache_line_pad.hpp:45: warning: Member pad[64-(sizeof(T)%64)] (variable) of class graphlab::cache_line_pad is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_conditional.hpp:17: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/parallel/fiber_control.hpp:44: warning: Member affinity_type (typedef) of class graphlab::fiber_control is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_control.hpp:45: warning: Member all_affinity() (function) of class graphlab::fiber_control is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_control.hpp:252: warning: Member instance_construct_params_nworkers (variable) of class graphlab::fiber_control is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_control.hpp:253: warning: Member instance_construct_params_affinity_base (variable) of class graphlab::fiber_control is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_control.hpp:332: warning: The following parameters of graphlab::fiber_control::schedule_tid(size_t tid, bool priority=true) are not documented:
+  parameter 'tid'
+/home/dato0/graphlab/src/graphlab/parallel/fiber_group.hpp:40: warning: Member affinity_type (typedef) of class graphlab::fiber_group is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_group.hpp:79: warning: Member fiber_group(size_t stacksize=8192, affinity_type affinity=fiber_control::all_affinity()) (function) of class graphlab::fiber_group is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:53: warning: Member wait() (function) of class graphlab::fiber_reply_container is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:76: warning: Member receive(procid_t source, dc_impl::blob b) (function) of class graphlab::fiber_reply_container is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:89: warning: Member ready() const  (function) of class graphlab::fiber_reply_container is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:93: warning: Member get_blob() (function) of class graphlab::fiber_reply_container is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:38: warning: Member val (variable) of class graphlab::fiber_reply_container is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:39: warning: Member lock (variable) of class graphlab::fiber_reply_container is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:40: warning: Member cond (variable) of class graphlab::fiber_reply_container is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:43: warning: Member waiting_tid (variable) of class graphlab::fiber_reply_container is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/fiber_remote_request.hpp:45: warning: Member valready (variable) of class graphlab::fiber_reply_container is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/lockfree_push_back.hpp:94: warning: Member lockfree_push_back(Container &container, size_t startidx, float scalefactor=2) (function) of class graphlab::lockfree_push_back is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/lockfree_push_back.hpp:96: warning: Member size() const  (function) of class graphlab::lockfree_push_back is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/lockfree_push_back.hpp:100: warning: Member set_size(size_t s) (function) of class graphlab::lockfree_push_back is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/lockfree_push_back.hpp:105: warning: Member push_back(Iterator begin, Iterator end) (function) of class graphlab::lockfree_push_back is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/lockfree_push_back.hpp:144: warning: Member query(size_t item, T &value) (function) of class graphlab::lockfree_push_back is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/lockfree_push_back.hpp:155: warning: Member query(size_t item) (function) of class graphlab::lockfree_push_back is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/lockfree_push_back.hpp:165: warning: Member query_unsafe(size_t item, T &value) (function) of class graphlab::lockfree_push_back is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/lockfree_push_back.hpp:174: warning: Member query_unsafe(size_t item) (function) of class graphlab::lockfree_push_back is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/lockfree_push_back.hpp:183: warning: Member push_back(const T &t) (function) of class graphlab::lockfree_push_back is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/mutex.hpp:63: warning: Member operator=(const mutex &m) (function) of class graphlab::mutex is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/mutex.hpp:42: warning: Member m_mut (variable) of class graphlab::mutex is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/mutex.hpp:34: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/parallel/mutex.hpp:128: warning: Member operator=(const recursive_mutex &m) (function) of class graphlab::recursive_mutex is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/mutex.hpp:95: warning: Member m_mut (variable) of class graphlab::recursive_mutex is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/mutex.hpp:87: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:145: warning: Member operator=(const simple_spinlock &m) (function) of class graphlab::simple_spinlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:122: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:194: warning: Member operator=(const padded_simple_spinlock &m) (function) of class graphlab::padded_simple_spinlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:170: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:244: warning: Member operator=(const conditional &m) (function) of class graphlab::conditional is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:220: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:406: warning: Member operator=(const semaphore &m) (function) of class graphlab::semaphore is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:408: warning: Member post() const  (function) of class graphlab::semaphore is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:412: warning: Member wait() const  (function) of class graphlab::semaphore is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:383: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:455: warning: Member writelock() const  (function) of class graphlab::spinrwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:463: warning: Member wrunlock() const  (function) of class graphlab::spinrwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:474: warning: Member readlock() const  (function) of class graphlab::spinrwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:482: warning: Member rdunlock() const  (function) of class graphlab::spinrwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:486: warning: Member unlock() const  (function) of class graphlab::spinrwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:583: warning: Member operator=(const rwlock &m) (function) of class graphlab::rwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:597: warning: Member readlock() const  (function) of class graphlab::rwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:601: warning: Member writelock() const  (function) of class graphlab::rwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:605: warning: Member try_readlock() const  (function) of class graphlab::rwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:608: warning: Member try_writelock() const  (function) of class graphlab::rwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:611: warning: Member unlock() const  (function) of class graphlab::rwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:615: warning: Member rdunlock() const  (function) of class graphlab::rwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:618: warning: Member wrunlock() const  (function) of class graphlab::rwlock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:565: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:662: warning: Member operator=(const cancellable_barrier &m) (function) of class graphlab::cancellable_barrier is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:664: warning: Member resize_unsafe(size_t numthreads) (function) of class graphlab::cancellable_barrier is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:632: warning: unable to resolve reference to `parallel_object_intricacies' for \ref command
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:845: warning: Member thread_destroy_callback() (function) of class graphlab::thread is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:846: warning: Member set_thread_destroy_callback(void(*callback)()) (function) of class graphlab::thread is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:781: warning: Member tls_data(size_t thread_id) (function) of class graphlab::thread::tls_data is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:782: warning: Member thread_id() (function) of class graphlab::thread::tls_data is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:783: warning: Member set_thread_id(size_t t) (function) of class graphlab::thread::tls_data is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:784: warning: Member operator[](const size_t &id) (function) of class graphlab::thread::tls_data is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:785: warning: Member contains(const size_t &id) const  (function) of class graphlab::thread::tls_data is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:788: warning: Member erase(const size_t &id) (function) of class graphlab::thread::tls_data is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:1010: warning: Member val (variable) of class graphlab::padded_integer is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/pthread_tools.hpp:1011: warning: Member __pad__[64-sizeof(size_t)] (variable) of class graphlab::padded_integer is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/queued_rwlock.hpp:65: warning: Member writelock(request *I) (function) of class graphlab::queued_rw_lock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/queued_rwlock.hpp:94: warning: Member wrunlock(request *I) (function) of class graphlab::queued_rw_lock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/queued_rwlock.hpp:108: warning: Member readlock(request *I) (function) of class graphlab::queued_rw_lock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/queued_rwlock.hpp:156: warning: Member rdunlock(request *I) (function) of class graphlab::queued_rw_lock is not documented.
+/home/dato0/graphlab/src/graphlab/parallel/thread_pool.hpp:98: warning: Member thread_pool(size_t nthreads=2, bool affinity=false) (function) of class graphlab::thread_pool is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/buffered_exchange.hpp:71: warning: Member buffer_type (typedef) of class graphlab::buffered_exchange is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/buffered_exchange.hpp:274: warning: Member clear() (function) of class graphlab::buffered_exchange is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/buffered_exchange.hpp:276: warning: Member barrier() (function) of class graphlab::buffered_exchange is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/buffered_exchange.hpp:106: warning: unable to resolve reference to `dc' for \ref command
+/home/dato0/graphlab/src/graphlab/rpc/buffered_exchange.hpp:107: warning: unable to resolve reference to `num_threads' for \ref command
+/home/dato0/graphlab/src/graphlab/rpc/buffered_exchange.hpp:112: warning: unable to resolve reference to `max_buffer_size' for \ref command
+/home/dato0/graphlab/src/graphlab/rpc/circular_char_buffer.hpp:183: warning: Member char_type (typedef) of class graphlab::circular_char_buffer_source is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/circular_char_buffer.hpp:179: warning: Member circular_char_buffer_source(circular_char_buffer &buf, size_t maxlen=size_t(-1)) (function) of class graphlab::circular_char_buffer_source is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/circular_char_buffer.hpp:191: warning: Member read(char *s, std::streamsize n) (function) of class graphlab::circular_char_buffer_source is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/circular_char_buffer.hpp:181: warning: Member buf (variable) of class graphlab::circular_char_buffer_source is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/circular_char_buffer.hpp:182: warning: Member maxlen (variable) of class graphlab::circular_char_buffer_source is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/circular_char_buffer.hpp:206: warning: Member char_type (typedef) of class graphlab::circular_char_buffer_sink is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/circular_char_buffer.hpp:203: warning: Member circular_char_buffer_sink(circular_char_buffer &buf) (function) of class graphlab::circular_char_buffer_sink is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/circular_char_buffer.hpp:214: warning: Member write(const char *s, std::streamsize n) (function) of class graphlab::circular_char_buffer_sink is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/circular_char_buffer.hpp:205: warning: Member buf (variable) of class graphlab::circular_char_buffer_sink is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc.hpp:333: warning: Member num_handler_threads() const  (function) of class graphlab::distributed_control is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc.hpp:354: warning: Member use_fast_track_requests (variable) of class graphlab::distributed_control is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc.hpp:318: warning: Member last_dc_procid (variable) of class graphlab::distributed_control is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc.hpp:323: warning: Member last_dc (variable) of class graphlab::distributed_control is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dc_dist_object.hpp:1307: warning: Member all_to_all(std::vector< U > &data, bool control=false) (function) of class graphlab::dc_dist_object is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dht.hpp:42: warning: Member storage_type (typedef) of class graphlab::dht is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dht.hpp:53: warning: Member dht(distributed_control &dc) (function) of class graphlab::dht is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/dht.hpp:139: warning: Member print_stats() const  (function) of class graphlab::dht is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:60: warning: Member log_entry(double value=0) (function) of class graphlab::log_entry is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:58: warning: Member value (variable) of class graphlab::log_entry is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:73: warning: Member lock (variable) of class graphlab::log_group is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:87: warning: Member callback (variable) of class graphlab::log_group is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:89: warning: Member sum_of_instantaneous_entries (variable) of class graphlab::log_group is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:90: warning: Member count_of_instantaneous_entries (variable) of class graphlab::log_group is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:92: warning: Member machine_log_modified (variable) of class graphlab::log_group is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:93: warning: Member earliest_modified_log (variable) of class graphlab::log_group is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/distributed_event_log.hpp:110: warning: Member thlocal_slot (variable) of class graphlab::event_log_thread_local_type is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/fiber_buffered_exchange.hpp:90: warning: Member buffer_type (typedef) of class graphlab::fiber_buffered_exchange is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/fiber_buffered_exchange.hpp:97: warning: Member recv_buffer_type (typedef) of class graphlab::fiber_buffered_exchange is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/fiber_buffered_exchange.hpp:283: warning: Member clear() (function) of class graphlab::fiber_buffered_exchange is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/fiber_buffered_exchange.hpp:285: warning: Member barrier() (function) of class graphlab::fiber_buffered_exchange is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/fiber_buffered_exchange.hpp:98: warning: Member lock (variable) of class graphlab::fiber_buffered_exchange is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/fiber_buffered_exchange.hpp:137: warning: unable to resolve reference to `dc' for \ref command
+/home/dato0/graphlab/src/graphlab/rpc/fiber_buffered_exchange.hpp:138: warning: unable to resolve reference to `max_buffer_size' for \ref command
+/home/dato0/graphlab/src/graphlab/rpc/request_future.hpp:66: warning: Member result_type (typedef) of class graphlab::request_future is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/request_future.hpp:118: warning: Member get_handle() (function) of class graphlab::request_future is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/request_future.hpp:67: warning: Member reply (variable) of class graphlab::request_future is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/request_future.hpp:68: warning: Member result (variable) of class graphlab::request_future is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/request_future.hpp:69: warning: Member hasval (variable) of class graphlab::request_future is not documented.
+/home/dato0/graphlab/src/graphlab/rpc/request_future.hpp:136: warning: unable to resolve reference to `operator()' for \ref command
+/home/dato0/graphlab/src/graphlab/scheduler/fifo_scheduler.hpp:56: warning: Member queue_type (typedef) of class graphlab::fifo_scheduler is not documented.
+/home/dato0/graphlab/src/graphlab/scheduler/fifo_scheduler.hpp:87: warning: Member fifo_scheduler(size_t num_vertices, const graphlab_options &opts) (function) of class graphlab::fifo_scheduler is not documented.
+/home/dato0/graphlab/src/graphlab/scheduler/priority_scheduler.hpp:58: warning: Member queue_type (typedef) of class graphlab::priority_scheduler is not documented.
+/home/dato0/graphlab/src/graphlab/scheduler/priority_scheduler.hpp:88: warning: Member priority_scheduler(size_t num_vertices, const graphlab_options &opts) (function) of class graphlab::priority_scheduler is not documented.
+/home/dato0/graphlab/src/graphlab/scheduler/queued_fifo_scheduler.hpp:59: warning: Member queue_type (typedef) of class graphlab::queued_fifo_scheduler is not documented.
+/home/dato0/graphlab/src/graphlab/scheduler/queued_fifo_scheduler.hpp:80: warning: Member queued_fifo_scheduler(size_t num_vertices, const graphlab_options &opts) (function) of class graphlab::queued_fifo_scheduler is not documented.
+/home/dato0/graphlab/src/graphlab/scheduler/scheduler_factory.hpp:43: warning: Member ischeduler_type (typedef) of class graphlab::scheduler_factory is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/iarchive.hpp:125: warning: Member iarchive(const char *buf, size_t len) (function) of class graphlab::iarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/iarchive.hpp:79: warning: Member in (variable) of class graphlab::iarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/iarchive.hpp:80: warning: Member buf (variable) of class graphlab::iarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/iarchive.hpp:81: warning: Member off (variable) of class graphlab::iarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/iarchive.hpp:82: warning: Member len (variable) of class graphlab::iarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/iarchive.hpp:142: warning: Member iarc (variable) of class graphlab::iarchive_soft_fail is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/iarchive.hpp:143: warning: Member mine (variable) of class graphlab::iarchive_soft_fail is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/is_pod.hpp:52: warning: Member BOOST_STATIC_CONSTANT(bool, value=(boost::type_traits::ice_or< boost::is_scalar< T >::value, boost::is_base_of< IS_POD_TYPE, T >::value >::value)) (function) of class graphlab::gl_is_pod is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:99: warning: Member expand_buf(size_t s) (function) of class graphlab::oarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:118: warning: Member direct_assign(const T &t) (function) of class graphlab::oarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:129: warning: Member advance(size_t s) (function) of class graphlab::oarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:88: warning: Member out (variable) of class graphlab::oarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:89: warning: Member buf (variable) of class graphlab::oarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:90: warning: Member off (variable) of class graphlab::oarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:91: warning: Member len (variable) of class graphlab::oarchive is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:163: warning: Member oarchive_soft_fail(oarchive &oarc) (function) of class graphlab::oarchive_soft_fail is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:176: warning: Member direct_assign(const T &t) (function) of class graphlab::oarchive_soft_fail is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:180: warning: Member fail() (function) of class graphlab::oarchive_soft_fail is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:156: warning: Member oarc (variable) of class graphlab::oarchive_soft_fail is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/oarchive.hpp:157: warning: Member mine (variable) of class graphlab::oarchive_soft_fail is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/serializable_concept.hpp:45: warning: Member BOOST_CONCEPT_USAGE(Serializable) (function) of class graphlab::Serializable is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/unsupported_serialize.hpp:44: warning: Member save(oarchive &archive) const  (function) of class graphlab::unsupported_serialize is not documented.
+/home/dato0/graphlab/src/graphlab/serialization/unsupported_serialize.hpp:47: warning: Member load(iarchive &archive) (function) of class graphlab::unsupported_serialize is not documented.
+/home/dato0/graphlab/src/graphlab/util/binary_parser.hpp:43: warning: Member binary_input_stream(const char *fname) (function) of class graphlab::binary_input_stream is not documented.
+/home/dato0/graphlab/src/graphlab/util/binary_parser.hpp:97: warning: Member binary_output_stream(const char *fname) (function) of class graphlab::binary_output_stream is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:82: warning: Member enqueue_conditional_signal(const T &elem, size_t signal_at_size) (function) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:91: warning: Member empty_unsafe() (function) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:95: warning: Member begin_critical_section() (function) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:100: warning: Member is_alive() (function) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:104: warning: Member swap(queue_type &q) (function) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:113: warning: Member try_dequeue_in_critical_section() (function) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:129: warning: Member end_critical_section() (function) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:134: warning: Member dequeue_and_begin_critical_section_on_success() (function) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:206: warning: Member wait_for_data() (function) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:45: warning: Member queue_type (typedef) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:47: warning: Member m_alive (variable) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:48: warning: Member m_queue (variable) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:49: warning: Member m_mutex (variable) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:50: warning: Member m_conditional (variable) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:51: warning: Member m_empty_conditional (variable) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:53: warning: Member sleeping (variable) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/blocking_queue.hpp:54: warning: Member sleeping_on_empty (variable) of class graphlab::blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/char_counting_sink.hpp:40: warning: Member char_type (typedef) of class graphlab::char_counting_sink is not documented.
+/home/dato0/graphlab/src/graphlab/util/char_counting_sink.hpp:36: warning: Member char_counting_sink(size_t initial=0) (function) of class graphlab::char_counting_sink is not documented.
+/home/dato0/graphlab/src/graphlab/util/char_counting_sink.hpp:38: warning: Member char_counting_sink(const char_counting_sink &buf) (function) of class graphlab::char_counting_sink is not documented.
+/home/dato0/graphlab/src/graphlab/util/char_counting_sink.hpp:49: warning: Member write(const char *s, std::streamsize n) (function) of class graphlab::char_counting_sink is not documented.
+/home/dato0/graphlab/src/graphlab/util/char_counting_sink.hpp:39: warning: Member count (variable) of class graphlab::char_counting_sink is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:53: warning: Member key_type (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:54: warning: Member value_type (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:55: warning: Member mapped_type (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:56: warning: Member hasher (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:57: warning: Member key_equal (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:58: warning: Member index_type (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:59: warning: Member pointer (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:60: warning: Member reference (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:61: warning: Member const_pointer (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:62: warning: Member const_reference (typedef) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:374: warning: Member cuckoo_map(key_type illegalkey, index_type stashsize=8, hasher const &h=hasher(), key_equal const &k=key_equal()) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:381: warning: Member operator=(const cuckoo_map &other) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:399: warning: Member illegal_key() const  (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:407: warning: Member size() (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:411: warning: Member begin() (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:429: warning: Member end() (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:434: warning: Member begin() const  (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:451: warning: Member end() const  (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:472: warning: Member compute_hash(size_t k, const uint32_t seed) const  (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:498: warning: Member rehash() (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:523: warning: Member reserve(size_t newlen) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:532: warning: Member insert(const value_type &v_) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:540: warning: Member insert(const_iterator hint, value_type const &v) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:544: warning: Member find(key_type const &k) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:553: warning: Member find(key_type const &k) const  (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:562: warning: Member count(key_type const &k) const  (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:572: warning: Member erase(iterator iter) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:587: warning: Member erase(key_type const &k) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:592: warning: Member swap(cuckoo_map &other) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:605: warning: Member operator[](const key_type &i) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:612: warning: Member key_eq() const  (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:616: warning: Member clear() (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:622: warning: Member load_factor() const  (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:626: warning: Member save(oarchive &oarc) const  (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:632: warning: Member load(iarchive &iarc) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map.hpp:460: warning: Member mix(size_t state) (function) of class graphlab::cuckoo_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:52: warning: Member key_type (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:53: warning: Member value_type (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:54: warning: Member mapped_type (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:55: warning: Member hasher (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:56: warning: Member key_equal (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:57: warning: Member index_type (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:58: warning: Member pointer (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:59: warning: Member reference (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:60: warning: Member const_pointer (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:61: warning: Member const_reference (typedef) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:380: warning: Member cuckoo_map_pow2(key_type illegalkey, index_type stashsize=8, hasher const &h=hasher(), key_equal const &k=key_equal()) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:385: warning: Member illegal_key() const  (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:393: warning: Member operator=(const cuckoo_map_pow2 &other) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:412: warning: Member size() (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:416: warning: Member begin() (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:432: warning: Member end() (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:437: warning: Member begin() const  (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:454: warning: Member end() const  (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:475: warning: Member compute_hash(size_t k, const uint32_t seed) const  (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:500: warning: Member rehash() (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:535: warning: Member reserve(size_t newlen) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:547: warning: Member insert(const value_type &v_) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:553: warning: Member insert(const_iterator hint, value_type const &v) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:557: warning: Member find(key_type const &k) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:566: warning: Member find(key_type const &k) const  (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:575: warning: Member count(key_type const &k) const  (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:585: warning: Member erase(iterator iter) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:600: warning: Member erase(key_type const &k) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:605: warning: Member swap(cuckoo_map_pow2 &other) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:619: warning: Member operator[](const key_type &i) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:626: warning: Member key_eq() const  (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:630: warning: Member clear() (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:636: warning: Member load_factor() const  (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:640: warning: Member save(oarchive &oarc) const  (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:646: warning: Member load(iarchive &iarc) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:463: warning: Member mix(size_t state) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_map_pow2.hpp:523: warning: Member next_powerof2(uint64_t val) (function) of class graphlab::cuckoo_map_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:52: warning: Member key_type (typedef) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:53: warning: Member value_type (typedef) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:54: warning: Member hasher (typedef) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:55: warning: Member key_equal (typedef) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:56: warning: Member index_type (typedef) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:57: warning: Member pointer (typedef) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:58: warning: Member reference (typedef) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:59: warning: Member const_pointer (typedef) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:60: warning: Member const_reference (typedef) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:369: warning: Member cuckoo_set_pow2(key_type illegalkey, index_type stashsize=8, index_type reserve_size=128, hasher const &h=hasher(), key_equal const &k=key_equal()) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:378: warning: Member cuckoo_set_pow2(const cuckoo_set_pow2 &other) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:384: warning: Member illegal_key() const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:392: warning: Member operator=(const cuckoo_set_pow2 &other) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:418: warning: Member size() const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:422: warning: Member begin() (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:438: warning: Member end() (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:443: warning: Member begin() const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:461: warning: Member end() const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:482: warning: Member compute_hash(size_t k, const uint32_t seed) const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:507: warning: Member rehash() (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:543: warning: Member reserve(size_t newlen) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:556: warning: Member insert(const value_type &v_) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:562: warning: Member insert(const_iterator hint, value_type const &v) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:566: warning: Member find(key_type const &k) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:575: warning: Member find(key_type const &k) const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:584: warning: Member count(key_type const &k) const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:597: warning: Member erase(iterator iter) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:612: warning: Member erase(key_type const &k) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:617: warning: Member swap(cuckoo_set_pow2 &other) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:631: warning: Member key_eq() const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:635: warning: Member clear() (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:641: warning: Member load_factor() const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:645: warning: Member save(oarchive &oarc) const  (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:651: warning: Member load(iarchive &iarc) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:470: warning: Member mix(size_t state) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/cuckoo_set_pow2.hpp:531: warning: Member next_powerof2(uint64_t val) (function) of class graphlab::cuckoo_set_pow2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:296: warning: Member iterator (typedef) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:297: warning: Member const_iterator (typedef) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:101: warning: Member empty() const  (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:300: warning: Member begin() const  (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:306: warning: Member end() const  (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:387: warning: Member popcount() const  (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:395: warning: Member operator&(const dense_bitset &other) const  (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:405: warning: Member operator|(const dense_bitset &other) const  (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:414: warning: Member operator-(const dense_bitset &other) const  (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:424: warning: Member operator&=(const dense_bitset &other) (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:433: warning: Member operator|=(const dense_bitset &other) (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:441: warning: Member operator-=(const dense_bitset &other) (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:449: warning: Member invert() (function) of class graphlab::dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:77: warning: Found unknown command `\Warning'
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:689: warning: Member iterator (typedef) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:690: warning: Member const_iterator (typedef) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:562: warning: Member empty() const  (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:693: warning: Member begin() const  (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:699: warning: Member end() const  (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:782: warning: Member popcount() const  (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:790: warning: Member operator&(const fixed_dense_bitset &other) const  (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:800: warning: Member operator|(const fixed_dense_bitset &other) const  (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:809: warning: Member operator-(const fixed_dense_bitset &other) const  (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:819: warning: Member operator&=(const fixed_dense_bitset &other) (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:828: warning: Member operator|=(const fixed_dense_bitset &other) (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:836: warning: Member operator-=(const fixed_dense_bitset &other) (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/dense_bitset.hpp:844: warning: Member operator==(const fixed_dense_bitset &other) const  (function) of class graphlab::fixed_dense_bitset is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:66: warning: Member wake_a_fiber() (function) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:74: warning: Member wake_all_fibers() (function) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:82: warning: Member fiber_sleep() (function) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:107: warning: Member empty_unsafe() (function) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:111: warning: Member is_alive() (function) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:115: warning: Member swap(queue_type &q) (function) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:122: warning: Member wait_for_data() (function) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:51: warning: Member queue_type (typedef) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:53: warning: Member m_alive (variable) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:54: warning: Member m_queue (variable) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:55: warning: Member m_mutex (variable) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:56: warning: Member fiber_queue (variable) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/fiber_blocking_queue.hpp:58: warning: Member sleeping (variable) of class graphlab::fiber_blocking_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/any.hpp:269: warning: Member registry_map_type (typedef) of class graphlab::any is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/any.hpp:228: warning: Member print(std::ostream &out) const  (function) of class graphlab::any is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/any.hpp:285: warning: Member print_type_or_contents(std::ostream &out, const ValueType &h) (function) of class graphlab::any is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/any.hpp:292: warning: Member print_type_or_contents(std::ostream &out, const ValueType &h) (function) of class graphlab::any is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/any.hpp:303: warning: Member value_type (typedef) of class graphlab::any::holder is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/any.hpp:323: warning: Member save(oarchive_soft_fail &arc) const  (function) of class graphlab::any::holder is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/any.hpp:151: warning: Member load(iarchive_soft_fail &arc) (function) of class graphlab::any::iholder is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/any.hpp:349: warning: Member localid (variable) of class graphlab::any::holder::registry_type is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/blob.hpp:118: warning: Member operator=(const blob &b) (function) of class graphlab::blob is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/blob.hpp:186: warning: Member load(iarchive &arc) (function) of class graphlab::blob is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/blob.hpp:197: warning: Member save(oarchive &arc) const  (function) of class graphlab::blob is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:43: warning: Member blocktype (typedef) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:216: warning: Member iterator (typedef) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:217: warning: Member const_iterator (typedef) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:219: warning: Member begin() (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:223: warning: Member end() (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:227: warning: Member begin() const  (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:231: warning: Member end() const  (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:241: warning: Member insert(iterator iter, const valuetype &val) (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:328: warning: Member merge_next(blocktype *bptr) (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:381: warning: Member get_block(size_t n) (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:391: warning: Member num_blocks() const  (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:404: warning: Member print(std::ostream &out) const  (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:415: warning: Member swap(block_linked_list &other) (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:425: warning: Member clear() (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:439: warning: Member save(oarchive &oarc) const  (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:98: warning: Member get_blocksize() (function) of class graphlab::block_linked_list is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:118: warning: Member value_iterator(blocktype *blockptr, uint32_t offset) (function) of class graphlab::block_linked_list::value_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:125: warning: Member value_iterator(value_iterator< othervalue > const &other, typename boost::enable_if< boost::is_convertible< othervalue *, value * >, enabler >::type=enabler()) (function) of class graphlab::block_linked_list::value_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:130: warning: Member pdistance_to(const value_iterator &other) const  (function) of class graphlab::block_linked_list::value_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:204: warning: Member get_blockptr() (function) of class graphlab::block_linked_list::value_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/block_linked_list.hpp:207: warning: Member get_offset() (function) of class graphlab::block_linked_list::value_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:42: warning: Member iterator (typedef) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:43: warning: Member const_iterator (typedef) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:44: warning: Member value_type (typedef) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:61: warning: Member init(const std::vector< idtype > &id_vec, const std::vector< valuetype > &value_vec) (function) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:159: warning: Member get_values() (function) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:160: warning: Member get_index() (function) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:162: warning: Member swap(csr_storage< valuetype, sizetype > &other) (function) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:167: warning: Member clear() (function) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:172: warning: Member load(iarchive &iarc) (function) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:177: warning: Member save(oarchive &oarc) const  (function) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/csr_storage.hpp:182: warning: Member estimate_sizeof() const  (function) of class graphlab::csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_block.hpp:45: warning: Member assign(InputIterator first, InputIterator last) (function) of class graphlab::dynamic_block is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_block.hpp:88: warning: Member is_full() const  (function) of class graphlab::dynamic_block is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_block.hpp:109: warning: Member next() (function) of class graphlab::dynamic_block is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_block.hpp:113: warning: Member clear() (function) of class graphlab::dynamic_block is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_block.hpp:118: warning: Member print(std::ostream &out) (function) of class graphlab::dynamic_block is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:51: warning: Member block_linked_list_t (typedef) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:52: warning: Member iterator (typedef) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:53: warning: Member const_iterator (typedef) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:54: warning: Member blocktype (typedef) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:55: warning: Member value_type (typedef) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:192: warning: Member swap(dynamic_csr_storage< valuetype, sizetype > &other) (function) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:197: warning: Member clear() (function) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:202: warning: Member load(iarchive &iarc) (function) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:211: warning: Member save(oarchive &oarc) const  (function) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:231: warning: Member get_index() (function) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:232: warning: Member get_values() (function) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:234: warning: Member estimate_sizeof() const  (function) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/dynamic_csr_storage.hpp:238: warning: Member meminfo(std::ostream &out) (function) of class graphlab::dynamic_csr_storage is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:81: warning: Member test1(SFINAE1< T,&T::operator()>*) (function) of class graphlab::test_function_or_functor_1 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:84: warning: Member test1(...) (function) of class graphlab::test_function_or_functor_1 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:88: warning: Member value (variable) of class graphlab::test_function_or_functor_1 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:106: warning: Member test1(SFINAE1< T,&T::operator()>*) (function) of class graphlab::test_function_or_const_functor_1 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:109: warning: Member test1(...) (function) of class graphlab::test_function_or_const_functor_1 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:113: warning: Member value (variable) of class graphlab::test_function_or_const_functor_1 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:133: warning: Member test1(SFINAE1< T,&T::operator()>*) (function) of class graphlab::test_function_or_functor_2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:136: warning: Member test1(...) (function) of class graphlab::test_function_or_functor_2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:140: warning: Member value (variable) of class graphlab::test_function_or_functor_2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:159: warning: Member test1(SFINAE1< T,&T::operator()>*) (function) of class graphlab::test_function_or_const_functor_2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:162: warning: Member test1(...) (function) of class graphlab::test_function_or_const_functor_2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/generics/test_function_or_functor_type.hpp:166: warning: Member value (variable) of class graphlab::test_function_or_const_functor_2 is not documented.
+/home/dato0/graphlab/src/graphlab/util/hash_functions.hpp:34: warning: Member operator()(const size_t &t) const  (function) of class graphlab::identity_hash is not documented.
+/home/dato0/graphlab/src/graphlab/util/hdfs.hpp:145: warning: Member char_type (typedef) of class graphlab::hdfs::hdfs_device is not documented.
+/home/dato0/graphlab/src/graphlab/util/hdfs.hpp:146: warning: Member category (typedef) of class graphlab::hdfs::hdfs_device is not documented.
+/home/dato0/graphlab/src/graphlab/util/hdfs.hpp:149: warning: Member hdfs_device(const hdfs &hdfs_fs, const std::string &filename, const bool write=false) (function) of class graphlab::hdfs::hdfs_device is not documented.
+/home/dato0/graphlab/src/graphlab/util/hdfs.hpp:153: warning: Member close() (function) of class graphlab::hdfs::hdfs_device is not documented.
+/home/dato0/graphlab/src/graphlab/util/hdfs.hpp:154: warning: Member read(char *strm_ptr, std::streamsize n) (function) of class graphlab::hdfs::hdfs_device is not documented.
+/home/dato0/graphlab/src/graphlab/util/hdfs.hpp:159: warning: Member write(const char *strm_ptr, std::streamsize n) (function) of class graphlab::hdfs::hdfs_device is not documented.
+/home/dato0/graphlab/src/graphlab/util/hdfs.hpp:164: warning: Member good() const  (function) of class graphlab::hdfs::hdfs_device is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:62: warning: Member key_type (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:63: warning: Member value_type (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:64: warning: Member mapped_type (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:65: warning: Member size_type (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:66: warning: Member hasher (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:67: warning: Member equality_function (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:68: warning: Member pointer (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:69: warning: Member reference (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:70: warning: Member const_pointer (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:71: warning: Member const_reference (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:74: warning: Member storage_type (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:93: warning: Member container_type (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:95: warning: Member spill_type (typedef) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:311: warning: Member hopscotch_map(Hash hashfun=Hash(), KeyEqual equalfun=KeyEqual()) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:316: warning: Member hopscotch_map(const hopscotch_map &h) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:323: warning: Member rehash(size_t s) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:333: warning: Member hash_function() const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:337: warning: Member key_eq() const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:341: warning: Member operator=(const hopscotch_map &other) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:348: warning: Member size() const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:352: warning: Member begin() (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:356: warning: Member end() (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:361: warning: Member begin() const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:365: warning: Member end() const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:370: warning: Member insert(const value_type &v) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:377: warning: Member insert(const_iterator hint, const value_type &v) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:381: warning: Member find(key_type const &k) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:391: warning: Member find(key_type const &k) const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:401: warning: Member count(key_type const &k) const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:407: warning: Member erase(iterator iter) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:411: warning: Member erase(key_type const &k) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:416: warning: Member swap(hopscotch_map &other) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:423: warning: Member operator[](const key_type &i) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:430: warning: Member clear() (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:436: warning: Member capacity() const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:441: warning: Member load_factor() const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:445: warning: Member save(oarchive &oarc) const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:455: warning: Member load(iarchive &iarc) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:472: warning: Member put(const value_type &v) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:477: warning: Member put(const Key &k, const Value &v) (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_map.hpp:481: warning: Member get(const Key &k) const  (function) of class graphlab::hopscotch_map is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:60: warning: Member value_type (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:61: warning: Member size_type (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:62: warning: Member hasher (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:63: warning: Member equality_function (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:64: warning: Member pointer (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:65: warning: Member reference (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:66: warning: Member const_pointer (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:67: warning: Member const_reference (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:70: warning: Member storage_type (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:74: warning: Member container_type (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:76: warning: Member iterator (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:77: warning: Member const_iterator (typedef) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:143: warning: Member hopscotch_set(size_t initialsize=32, Hash hashfun=Hash(), KeyEqual equalfun=KeyEqual()) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:148: warning: Member hopscotch_set(const hopscotch_set &h) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:155: warning: Member rehash(size_t s) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:167: warning: Member hash_function() const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:171: warning: Member key_eq() const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:175: warning: Member operator=(const hopscotch_set &other) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:182: warning: Member size() const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:186: warning: Member begin() (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:190: warning: Member end() (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:195: warning: Member begin() const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:199: warning: Member end() const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:204: warning: Member insert(const value_type &v) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:211: warning: Member insert(const_iterator hint, const value_type &v) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:215: warning: Member find(value_type const &v) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:219: warning: Member find(value_type const &v) const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:223: warning: Member count(value_type const &v) const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:228: warning: Member erase(iterator iter) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:232: warning: Member erase(value_type const &v) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:236: warning: Member swap(hopscotch_set &other) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:242: warning: Member clear() (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:248: warning: Member capacity() const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:253: warning: Member load_factor() const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:257: warning: Member save(oarchive &oarc) const  (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_set.hpp:267: warning: Member load(iarchive &iarc) (function) of class graphlab::hopscotch_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:62: warning: Member size_type (typedef) of class graphlab::hopscotch_table is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:487: warning: Member clear() (function) of class graphlab::hopscotch_table is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:567: warning: Member load_factor() const  (function) of class graphlab::hopscotch_table is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:573: warning: Member operator=(const hopscotch_table &other) (function) of class graphlab::hopscotch_table is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:165: warning: Member iterator_category (typedef) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:166: warning: Member value_type (typedef) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:167: warning: Member difference_type (typedef) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:168: warning: Member pointer (typedef) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:169: warning: Member reference (typedef) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:178: warning: Member operator++() (function) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:186: warning: Member operator++(int) (function) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:193: warning: Member operator*() (function) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:197: warning: Member operator->() (function) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:201: warning: Member operator==(const const_iterator it) const  (function) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:205: warning: Member operator!=(const const_iterator iter) const  (function) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:173: warning: Member ptr (variable) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:174: warning: Member iter (variable) of class graphlab::hopscotch_table::const_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:288: warning: Member iterator_category (typedef) of class graphlab::hopscotch_table::insert_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:289: warning: Member value_type (typedef) of class graphlab::hopscotch_table::insert_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:291: warning: Member insert_iterator(hopscotch_table *c) (function) of class graphlab::hopscotch_table::insert_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:293: warning: Member operator++() (function) of class graphlab::hopscotch_table::insert_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:296: warning: Member operator++(int) (function) of class graphlab::hopscotch_table::insert_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:300: warning: Member operator*() (function) of class graphlab::hopscotch_table::insert_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:303: warning: Member operator=(const insert_iterator &i) (function) of class graphlab::hopscotch_table::insert_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:308: warning: Member operator=(const value_type &v) (function) of class graphlab::hopscotch_table::insert_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:287: warning: Member cmap (variable) of class graphlab::hopscotch_table::insert_iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:224: warning: Member iterator_category (typedef) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:225: warning: Member value_type (typedef) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:226: warning: Member difference_type (typedef) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:227: warning: Member pointer (typedef) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:228: warning: Member reference (typedef) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:238: warning: Member operator const_iterator() const  (function) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:243: warning: Member operator++() (function) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:251: warning: Member operator++(int) (function) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:258: warning: Member operator*() (function) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:262: warning: Member operator->() (function) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:266: warning: Member operator==(const iterator it) const  (function) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:270: warning: Member operator!=(const iterator iter) const  (function) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:232: warning: Member ptr (variable) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/hopscotch_table.hpp:233: warning: Member iter (variable) of class graphlab::hopscotch_table::iterator is not documented.
+/home/dato0/graphlab/src/graphlab/util/mutable_queue.hpp:161: warning: Member mutable_queue(const mutable_queue &other) (function) of class graphlab::mutable_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/mutable_queue.hpp:163: warning: Member operator=(const mutable_queue &other) (function) of class graphlab::mutable_queue is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:42: warning: Member char_type (typedef) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:43: warning: Member category (typedef) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:45: warning: Member resizing_array_sink_ref(resizing_array_sink &ref) (function) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:48: warning: Member resizing_array_sink_ref(const resizing_array_sink_ref &other) (function) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:50: warning: Member size() const  (function) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:51: warning: Member c_str() (function) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:53: warning: Member clear() (function) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:59: warning: Member relinquish() (function) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:61: warning: Member advance(std::streamsize n) (function) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/resizing_array_sink.hpp:64: warning: Member write(const char *s, std::streamsize n) (function) of class graphlab::resizing_array_sink_ref is not documented.
+/home/dato0/graphlab/src/graphlab/util/safe_circular_char_buffer.hpp:39: warning: Member safe_circular_char_buffer(std::streamsize bufsize=10485760) (function) of class graphlab::safe_circular_char_buffer is not documented.
+/home/dato0/graphlab/src/graphlab/util/safe_circular_char_buffer.hpp:54: warning: Member is_done() const  (function) of class graphlab::safe_circular_char_buffer is not documented.
+/home/dato0/graphlab/src/graphlab/util/safe_circular_char_buffer.hpp:58: warning: Member reader_is_blocked() const  (function) of class graphlab::safe_circular_char_buffer is not documented.
+/home/dato0/graphlab/src/graphlab/util/safe_circular_char_buffer.hpp:118: warning: Member advance_head(const std::streamsize advance_len) (function) of class graphlab::safe_circular_char_buffer is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:56: warning: Member sizes (enumeration) of class graphlab::small_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:49: warning: Member value_type (typedef) of class graphlab::small_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:50: warning: Member reference (typedef) of class graphlab::small_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:51: warning: Member const_reference (typedef) of class graphlab::small_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:52: warning: Member difference_type (typedef) of class graphlab::small_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:53: warning: Member size_type (typedef) of class graphlab::small_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:54: warning: Member iterator (typedef) of class graphlab::small_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:55: warning: Member const_iterator (typedef) of class graphlab::small_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/small_set.hpp:154: warning: Member operator==(const small_set< OtherDim, T, Less > &other) const  (function) of class graphlab::small_set is not documented.
+/home/dato0/graphlab/src/graphlab/util/uint128.hpp:41: warning: Member ints (variable) of class graphlab::gl_uint128_t is not documented.
+/home/dato0/graphlab/src/graphlab/util/uint128.hpp:42: warning: Member bytes[16] (variable) of class graphlab::gl_uint128_t is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/icontext.hpp:235: warning: unable to resolve reference to `gather_caching' for \ref command
+/home/dato0/graphlab/src/graphlab/vertex_program/icontext.hpp:235: warning: unable to resolve reference to `gather_caching' for \ref command
+/home/dato0/graphlab/src/graphlab/vertex_program/ivertex_program.hpp:745: warning: Member pre_local_gather(gather_type &) const  (function) of class graphlab::ivertex_program is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/ivertex_program.hpp:764: warning: Member post_local_gather(gather_type &) const  (function) of class graphlab::ivertex_program is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/ivertex_program.hpp:141: warning: unable to resolve reference to `graphlab::signals' for \ref command
+/home/dato0/graphlab/src/graphlab/vertex_program/ivertex_program.hpp:451: warning: unable to resolve reference to `graphlab::vertex_id_type' for \ref command
+/home/dato0/graphlab/src/graphlab/vertex_program/ivertex_program.hpp:516: warning: argument 'message' of command @param is not found in the argument list of graphlab::ivertex_program< Graph, GatherType, MessageType >::init(icontext_type &context, const vertex_type &vertex, const message_type &msg)
+/home/dato0/graphlab/src/graphlab/vertex_program/ivertex_program.hpp:516: warning: The following parameters of graphlab::ivertex_program::init(icontext_type &context, const vertex_type &vertex, const message_type &msg) are not documented:
+  parameter 'msg'
+/home/dato0/graphlab/src/graphlab/vertex_program/op_plus_eq_concept.hpp:61: warning: Member BOOST_CONCEPT_USAGE(OpPlusEq) (function) of class graphlab::OpPlusEq is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/messages.hpp:37: warning: Member sum_priority(const double value=0) (function) of class graphlab::messages::sum_priority is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/messages.hpp:38: warning: Member priority() const  (function) of class graphlab::messages::sum_priority is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/messages.hpp:39: warning: Member operator+=(const sum_priority &other) (function) of class graphlab::messages::sum_priority is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/messages.hpp:36: warning: Member value (variable) of class graphlab::messages::sum_priority is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/messages.hpp:50: warning: Member max_priority(const double value=0) (function) of class graphlab::messages::max_priority is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/messages.hpp:51: warning: Member priority() const  (function) of class graphlab::messages::max_priority is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/messages.hpp:52: warning: Member operator+=(const max_priority &other) (function) of class graphlab::messages::max_priority is not documented.
+/home/dato0/graphlab/src/graphlab/vertex_program/messages.hpp:49: warning: Member value (variable) of class graphlab::messages::max_priority is not documented.
+/home/dato0/graphlab/src/graphlab/util/random.hpp:103: warning: Member real_rng_type (typedef) of class graphlab::random::generator is not documented.
+/home/dato0/graphlab/src/graphlab/util/random.hpp:104: warning: Member discrete_rng_type (typedef) of class graphlab::random::generator is not documented.
+/home/dato0/graphlab/src/graphlab/util/random.hpp:105: warning: Member fast_discrete_rng_type (typedef) of class graphlab::random::generator is not documented.
+/home/dato0/graphlab/src/graphlab/util/random.hpp:210: warning: Member bernoulli(const double p=double(0.5)) (function) of class graphlab::random::generator is not documented.
+/home/dato0/graphlab/src/graphlab/util/random.hpp:218: warning: Member fast_bernoulli(const double p=double(0.5)) (function) of class graphlab::random::generator is not documented.
+/home/dato0/graphlab/src/graphlab/util/random.hpp:65: warning: Member distribution_type (typedef) of class graphlab::random::distributions::uniform is not documented.
+/home/dato0/graphlab/src/graphlab/util/random.hpp:69: warning: Member sample(RealRNG &real_rng, DiscreteRNG &discrete_rng, const IntType &min, const IntType &max) (function) of class graphlab::random::distributions::uniform is not documented.
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:454: warning: Member icontext_type (typedef) of class graphlab::warp::warp_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:602: warning: Member get_rpc_obj_id() (function) of class graphlab::warp::warp_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:1354: warning: Member get_aggregator() (function) of class graphlab::warp::warp_engine is not documented.
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:74: warning: unable to resolve reference to `graphlab::warp::map_reduce_neighborhood' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:75: warning: unable to resolve reference to `graphlab::warp::transform_neighborhood' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:76: warning: unable to resolve reference to `graphlab::warp::broadcast_neighborhood' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:90: warning: unable to resolve reference to `graphlab::warp_engine::signal' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:91: warning: unable to resolve reference to `graphlab::warp_engine::signal_all' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:94: warning: unable to resolve reference to `graphlab::warp_engine::start' for \ref command
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:849: warning: argument 'vid' of command @param is not found in the argument list of graphlab::warp::warp_engine< GraphType, MessageType >::signal(vertex_id_type gvid, const message_type &message=message_type())
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:849: warning: The following parameters of graphlab::warp::warp_engine::signal(vertex_id_type gvid, const message_type &message=message_type()) are not documented:
+  parameter 'gvid'
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:901: warning: The following parameters of graphlab::warp::warp_engine::signal_all(const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/engine/warp_engine.hpp:943: warning: The following parameters of graphlab::warp::warp_engine::signal_vset(const vertex_set &vset, const message_type &message=message_type(), const std::string &order="shuffle") are not documented:
+  parameter 'order'
+/home/dato0/graphlab/src/graphlab/zookeeper/key_value.hpp:103: warning: Member callback_type) (typedef) of class graphlab::zookeeper::key_value is not documented.
